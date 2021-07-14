@@ -1,0 +1,7 @@
+﻿  BSTree.cpp
+  BST_main.cpp
+d:\mohamed\ibraa\2 cs\fcis term 1\new folder\project ds\code\bsts\bsts\bst_main.cpp(77): warning C4018: '<': signed/unsigned mismatch
+d:\mohamed\ibraa\2 cs\fcis term 1\new folder\project ds\code\bsts\bsts\bst_main.cpp(104): warning C4018: '<': signed/unsigned mismatch
+d:\mohamed\ibraa\2 cs\fcis term 1\new folder\project ds\code\bsts\bsts\bst_main.cpp(142): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  BSTs.vcxproj -> D:\mohamed\Ibraa\2 cs\fcis term 1\New folder\project ds\Code\BSTs\Debug\BSTs.exe
